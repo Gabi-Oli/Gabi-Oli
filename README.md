@@ -12,3 +12,5 @@
 - :girl: Como chegar até mim - Me sigam nas redes sociais! Seguem os links abaixo:
 
 https://www.linkedin.com/in/gabriela-oliveira-b314ba21a/
+
+https://www.facebook.com/profile.php?id=100003723654331
