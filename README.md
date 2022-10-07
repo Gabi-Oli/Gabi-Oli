@@ -19,9 +19,11 @@ https://www.linkedin.com/in/gabriela-oliveira-b314ba21a/
 
 https://www.facebook.com/profile.php?id=100003723654331
 
-Tecnologias dominadas do básico durante as aulas para quem está inicando e criando uma base sólida afim de se aprofundar nos conhecimentos:
+## Tecnologias dominadas do básico durante as aulas para quem está inicando e criando uma base sólida afim de se aprofundar nos conhecimentos:
 
-![sddefault](https://user-images.githubusercontent.com/111095992/194451281-31a911f7-192b-4578-a5d3-77bd594873ce.jpg)
+![650-6505344_html5-js-css-icon-images-html5-hd-png](https://user-images.githubusercontent.com/111095992/194461202-8f1de8d9-f9e1-477a-be9b-c57a9be726ac.png)
+          
+ 
           
   <div>
 <a href="https://github.com/Gabi-Oli">
