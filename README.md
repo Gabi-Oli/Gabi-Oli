@@ -21,8 +21,7 @@ https://www.facebook.com/profile.php?id=100003723654331
 
 Tecnologias dominadas do básico durante as aulas para quem está inicando e criando uma base sólida afim de se aprofundar nos conhecimentos:
 
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+![sddefault](https://user-images.githubusercontent.com/111095992/194451281-31a911f7-192b-4578-a5d3-77bd594873ce.jpg)
           
           
 
