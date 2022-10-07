@@ -23,5 +23,9 @@ Tecnologias dominadas do básico durante as aulas para quem está inicando e cri
 
 ![sddefault](https://user-images.githubusercontent.com/111095992/194451281-31a911f7-192b-4578-a5d3-77bd594873ce.jpg)
           
-          
+  <div>
+<a href="https://github.com/Gabi-Oli">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabi-Oli&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabi-Oli-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>        
 
