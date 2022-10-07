@@ -19,6 +19,8 @@ https://www.linkedin.com/in/gabriela-oliveira-b314ba21a/
 
 https://www.facebook.com/profile.php?id=100003723654331
 
+:email: gabioli_girl@outlook.com
+
 ## Tecnologias dominadas do básico durante as aulas para quem está iniciando e criando uma base sólida afim de se aprofundar nos conhecimentos:
 
 ![650-6505344_html5-js-css-icon-images-html5-hd-png](https://user-images.githubusercontent.com/111095992/194461202-8f1de8d9-f9e1-477a-be9b-c57a9be726ac.png)
