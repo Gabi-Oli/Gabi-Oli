@@ -20,10 +20,6 @@ https://www.linkedin.com/in/gabriela-oliveira-b314ba21a/
 
 
 :email: gabioli_girl@outlook.com
-
-:computer: Tecnologias dominadas do básico durante as aulas para quem está iniciando e criando uma base sólida afim de se aprofundar nos conhecimentos:
-
-![650-6505344_html5-js-css-icon-images-html5-hd-png](https://user-images.githubusercontent.com/111095992/194461202-8f1de8d9-f9e1-477a-be9b-c57a9be726ac.png)
           
  
           
@@ -33,5 +29,4 @@ https://www.linkedin.com/in/gabriela-oliveira-b314ba21a/
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabi-Oli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>        
 
-![Snake animation](https://github.com/Gabi-Oli/Gabi-Oli/blob/output/github-contribution-grid-snake.svg)
 
