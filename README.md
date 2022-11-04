@@ -15,18 +15,24 @@
 ![pc-computador](https://user-images.githubusercontent.com/111095992/194446888-2100763d-ff33-4269-9b6e-bcd7381098da.gif)
 
 
-https://www.linkedin.com/in/gabriela-oliveira-b314ba21a/
 
 
 
-:email: gabioli_girl@outlook.com
-          
- 
+
           
   <div>
 <a href="https://github.com/Gabi-Oli">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabi-Oli&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabi-Oli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>        
-
-
+</div> 
+          
+<li>
+          <a href= "https://www.linkedin.com/in/gabriela-oliveira-b314ba21a">
+             <img src= "https://www.aokisistemas.com.br/wp-content/uploads/2020/01/logo-linkedin-square.jpg" widht="50" height="50">
+          </a>
+          <li>
+          <a href= "gabioli_girl@outlook.com">
+                    <img src= "https://thumbs.dreamstime.com/z/m-email-vector-logo-g-mail-new-multicolor-flat-style-eps-198332944.jpg" widht= "50" height="50">
+          </a>
+          </li>
+          </li>
