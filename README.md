@@ -1,6 +1,7 @@
 ### Olá!!! 👋
 ## *Conheçam um pouco sobre mim*
-![77](https://user-images.githubusercontent.com/111095992/194445029-53c1f406-7540-45e2-840f-12ea554af5ff.gif)
+![200w](https://user-images.githubusercontent.com/111095992/203682405-25ee5fd8-104d-4666-8144-9c330105b0a4.gif)
+
 
 
 ## Apresentação pessoal :woman:
@@ -11,9 +12,6 @@
 - 📚 No curso aprendi sobre lógica de programação essencial, introdução ao git e github, criação de Websites com html5 e css3 e programação para internet usando o JavaSCript. 
 - :heart: Procuro colaborar dividindo minhas competências através da comunidade
 - 🔗 Como entrar em contato comigo - Me sigam nas redes sociais! Seguem os links abaixo:
-
-![pc-computador](https://user-images.githubusercontent.com/111095992/194446888-2100763d-ff33-4269-9b6e-bcd7381098da.gif)
-
 
 
 
