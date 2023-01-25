@@ -28,9 +28,5 @@
           <a href= "https://www.linkedin.com/in/gabriela-oliveira-b314ba21a">
              <img src= "https://www.aokisistemas.com.br/wp-content/uploads/2020/01/logo-linkedin-square.jpg" widht="50" height="50">
           </a>
-          <li>
-          <a href= "gabioli_girl@outlook.com">
-                    <img src= "https://thumbs.dreamstime.com/z/m-email-vector-logo-g-mail-new-multicolor-flat-style-eps-198332944.jpg" widht= "50" height="50">
-          </a>
-          </li>
+         
           </li>
